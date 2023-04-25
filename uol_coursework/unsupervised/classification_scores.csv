@@ -1,0 +1,4 @@
+,score
+LogisticRegression,0.9632352941176471
+DecisionTree,1.0
+GradienBoosting,1.0
